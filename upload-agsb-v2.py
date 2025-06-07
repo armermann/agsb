@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "afey"         # 用户名
 UUID = "d850ad7e-6fc0-4610-8547-6f7bf700fff3"                     # UUID，留空则自动生成
-PORT = 50000             # Vmess端口，留空或0则自动生成
+PORT =49999             # Vmess端口，留空或0则自动生成
 DOMAIN = "git.doggyman.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNzUwYmRlNzIxMjY3NGRiODI1ZmRmM2NkNzg5NmQ2NDEiLCJ0IjoiMWU3Y2JiOTctZWVkOC00YWMyLWFlNDUtNTI1ZWNjZmJmYTQ1IiwicyI6Ik5HRmhOakF5T1dZdE9HUTJaaTAwWkdKakxXSTJZVFV0WlRFMU9UTTVNRFZqWlRrMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
